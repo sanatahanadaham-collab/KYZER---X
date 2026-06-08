@@ -1,1 +1,1 @@
-# KYZER---X
+# testminibot-rashu
