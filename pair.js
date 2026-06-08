@@ -26,7 +26,7 @@ const {
   DisconnectReason
 } = require('dct-dev-private-baileys');
 // ---------------- CONFIG ----------------
-const BOT_NAME_FANCY = '𝐀𝚂𝙷𝙸𝚈𝙰-𝐌𝙳 4.0.0𝗩 🥷🇱🇰';
+const BOT_NAME_FANCY = '𝐊ʏᴢᴇʀ-𝐌𝙳 4.0.0𝗩 🥷🇱🇰';
 
 const config = {
   AUTO_VIEW_STATUS: 'true',
@@ -42,11 +42,11 @@ const config = {
   WORK_TYPE: 'public',
   OWNER_NUMBER: process.env.OWNER_NUMBER || '94752135878',
   CHANNEL_LINK: 'https://chat.whatsapp.com/HRIlSELlxO5JQo2gYL4MzV?mode=gi_t',
-  BOT_NAME: '𝐀𝚂𝙷𝙸𝚈𝙰-𝐌𝙳 4.0.0𝗩 🥷🇱🇰',
+  BOT_NAME: '𝐊ʏᴢᴇʀ-𝐌𝙳 4.0.0𝗩 🥷🇱🇰',
   BOT_VERSION: '4.0.0V',
-  OWNER_NAME: '𝐀ʏᴇꜱʜ 𝐓ʜᴇᴍɪʏᴀ 🥷🇱🇰',
+  OWNER_NAME: '𝐊𝐀𝐒𝐔𝐍 𝐁𝐇𝐀𝐆𝐘𝐀 🥷🇱🇰',
   IMAGE_PATH: 'https://files.catbox.moe/qb2puf.jpeg',
-  BOT_FOOTER: '> *〠 𝐏𝙾𝚆𝙴𝚁𝙴𝙳 𝗕𝗬 𝐀𝚂𝙷𝙸𝚈𝙰-𝐌𝙳 𝐕.4 🥷🇱🇰*',
+  BOT_FOOTER: '> *〠 𝐏𝙾𝚆𝙴𝚁𝙴𝙳 𝗕𝗬 𝐊ʏᴢᴇʀ-𝐌𝙳 𝐕.4 🥷🇱🇰*',
   BUTTON_IMAGES: { ALIVE: 'https://files.catbox.moe/qb2puf.jpeg' }
 };
 // ---------------- MONGO SETUP ----------------
@@ -727,7 +727,7 @@ case 'mp4': {
 
 *ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʏᴘᴇ* 🍷
 
-> *〠 𝐏𝙾𝚆𝙴𝚁𝙴𝙳 𝗕𝗬 𝐀𝚂𝙷𝙸𝚈𝙰-𝐌𝙳 𝐕.4 🥷🇱🇰*
+> *〠 𝐏𝙾𝚆𝙴𝚁𝙴𝙳 𝗕𝗬 𝐊ʏᴢᴇʀ-𝐌𝙳 𝐕.4 🥷🇱🇰*
 `;
 
         // 6. Buttons Definition
